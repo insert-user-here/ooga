@@ -1,56 +1,34 @@
-# **Greatsword V3**
--------
+<div align="center">
 
-<img width="960" alt="image" src="https://github.com/JustTacoJohn/Greatsword/assets/119009502/f0e1b322-9432-49bf-921f-231c2cfecbc9">
+<img src="https://socialify.git.ci/whos-evan/elixir/image?description=1&descriptionEditable=Beautiful%20proxy%20made%20using%20Tailwind%20CSS%2C%20Ultraviolet%20and%20bare-server!%20&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fwhos-evan%2Felixir%2Fmain%2Fimages%2Flogo.svg&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="elixir" width="640" height="320" />
 
--------
+<p align="center">
+    <a href="https://render.com/deploy?repo=https://github.com/whos-evan/elixir" alt="Deploy to Render">
+        <img src="https://img.shields.io/badge/-Deploy to Render-blue?style=for-the-badge&logo=Render" /></a>
+    <a href="https://heroku.com/deploy?template=https://github.com/whos-evan/elixir" alt="Deploy to Heroku">
+        <img src="https://img.shields.io/badge/-Deploy to Heroku-blue?style=for-the-badge&logo=Heroku" /></a>
+    <a href="https://replit.com/github/whos-evan/elixir" alt="Deploy to Replit">
+        <img src="https://img.shields.io/badge/-Deploy to Replit-blue?style=for-the-badge&logo=Replit" /></a>
+    <a href="https://railway.app/new/template/ioMhDh?referralCode=h7vpyl" alt="Deploy to Railway">
+        <img src="https://img.shields.io/badge/-Deploy to Railway-blue?style=for-the-badge&logo=Railway" /></a>
+</p>
 
-<img width="960" alt="image" src="https://github.com/JustTacoJohn/Greatsword-V3/assets/119009502/26cbe91f-a5f6-4d71-86d9-0ecc3c5d81d0">
+</div>
 
+## Features
+- A very nice looking proxy built using Tailwind CSS!
+- Super fast! (most of the time)
+- Constant updates!
+- Easy to use shortcut buttons!
+- Ability to disable analytics for those that actually care about their privacy.
+- Customizable search engine (Google, DuckDuckGo, Brave Search, or Bing).
+- about:blank or tab cloaking!
+- Installable as a PWA (Progressive Web App)!
 
--------
+## Official Links
+- https://elixirofficial.com
 
-This says 97% html because of the gfiles Lmao
-
-Only deploy this with CodeSandbox and/or Render.
-
-The official link ***is*** going to be slow
-
-# What is Greatsword?
-A stupid project made by a dumb kid in middle school.
-<br>
-This is the sequel to GreatSword v2. Greatsword was an unblocker I made, but it had very outdated scripts and styles compared to new tech. 
-<br>
-I made this repo to hopefully modernize Greatsword, and keep its feel.
-<br>
-Please star if you enjoy, it helps this repo grow.
-
-# Important
-In order to use "unsafe" Greatsword V2 links you must put your pointer in the middle of the "deceptive site" screen, and type "thisisunsafe". This may redirect you to a new tab, or something else. You may have to go back to the same site and repeat this process up to 10 times. Eventually it will become usable.
-
-# Current bugs:
-* Chrome safe browsing may falsely flag links.
-* If this happens, about:blank cloak reports as "unsafe" and typing "thisisunsafe" does not work.
-* Greatsword ***may*** be broken in chrome on windows devices.
-# Links:
-Discord: https://discord.gg/BMxe6D9CKv
-
-New links ***are*** added to the discord every day.
-
-Credit to this [Gigachad](https://github.com/dragon731012/) for DM Unblocker.
-
-# Other Credits
-Orphanlol - Modifying the README (Three times)
-<br>
-Tacogamerman - Creator of Gsv2
-<br>
-Skool - Creator of skooleagler
-<br>
-Cosmosthedev - Provider of an eaglercraft client folder
-<br>
-I1aw - Provider of Gfiles
-
-
-
-
-
+## Screenshots
+![brave_aKBpCyVjYI](https://user-images.githubusercontent.com/72959444/203647512-a582b7ba-bee0-4134-96c1-fe4c11e76395.png)
+![brave_1LiTDX2uZX](https://user-images.githubusercontent.com/72959444/203647517-28d94f3b-3adc-44ea-a5ec-4141505d5f90.png)
+![brave_uGniUxj9j5](https://user-images.githubusercontent.com/72959444/203647519-d4d0e6ad-ad16-4a27-b4f8-43754f1ca8eb.png)

@@ -1,6 +1,7 @@
 {
-    "name": "DM Unbl0cker",
-    "description": "Bypass internet blockers",
-    "repository": "https://github.com/dragon731012/DM-unbl0cker-3",
-    "logo": "https://raw.githubusercontent.com/dragon731012/DM-unbl0cker-3/main/public/img/logo.png"
-}
+    "name": "Elixir Proxy",
+    "description": "Ultraviolet proxy ultiziing Ultraviolet and bare-server",
+    "repository": "https://github.com/whos-evan/elixir",
+    "logo": "https://github.com/whos-evan/elixir/blob/c4fbe8e87fb0567e041db20391da36e1b64b0151/images/favicon.ico",
+    "keywords": ["node", "elixir", "ultraviolet", "bare-server"]
+  }
