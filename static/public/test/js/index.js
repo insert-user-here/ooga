@@ -129,7 +129,7 @@ function setAnalytics() {
 if(localStorage.getItem('analytics') != 'off') {
     var scriptTagGTAG = document.createElement('script');
     scriptTagGTAG.setAttribute('async', '');
-    scriptTagGTAG.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=G-CX3B4NHEG0');
+    scriptTagGTAG.setAttribute('src', 'https://www.googletagmanager.com/gtag/test/js?id=G-CX3B4NHEG0');
     document.head.appendChild(scriptTagGTAG);
     // gtag
     window.dataLayer = window.dataLayer || [];
@@ -338,7 +338,7 @@ function changeFavicon(src) {
    }
    
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register(window.location.origin + "/js/sw.js");
+    navigator.serviceWorker.register(window.location.origin + "/test/js/sw.js");
   }
 
 // announcement code
